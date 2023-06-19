@@ -1,0 +1,63 @@
+{
+  "'actions/setup-python@v4'": 3579,
+  "'actions/setup-python@v2'": 2289,
+  "'actions/setup-python@main'": 21,
+  "'actions/setup-python@v1'": 630,
+  "'actions/setup-python@v3'": 450,
+  "'actions/setup-python@bd6b4b6205c4dbad673328db7b31b7fab9e241c0'": 56,
+  "'actions/setup-python@v4.6.1'": 110,
+  "'actions/setup-python@v2.2.2'": 11,
+  "'actions/setup-python@v4.5.0'": 43,
+  "'actions/setup-python@v4.6.0'": 16,
+  "'actions/setup-python@v4.3.0'": 26,
+  "'actions/setup-python@d27e3f3d7c64b4bbf8e4abfb9b63b83e846e0435'": 11,
+  "'actions/setup-python@57ded4d7d5e986d7296eab16560982c6dd7c923b'": 24,
+  "'actions/setup-python@master'": 23,
+  "'./.github/actions/setup-python'": 30,
+
+  "'peaceiris/actions-gh-pages@v3'": 75,
+  "'softprops/action-gh-release@v1'": 109,
+  "'ncipollo/release-action@v1'": 44,
+  "'JamesIves/github-pages-deploy-action@v4'": 28,
+  "'actions/upload-pages-artifact@v1'": 18,
+  "'actions/deploy-pages@v1'": 13,
+    "'ishworkh/docker-image-artifact-upload@v1'": 14,
+  "'ishworkh/docker-image-artifact-download@v1'": 22,
+
+  "'pypa/gh-action-pypi-publish@release/v1'": 324,
+  "'pypa/gh-action-pypi-publish@v1.8.6'": 28,
+  "'pypa/gh-action-pypi-publish@master'": 191,
+  "'pypa/gh-action-pypi-publish@27b31702a0e7fc50959f5ad993c78deac1bdfc29'": 41,
+  "'pypa/gh-action-pypi-publish@v1.5.0'": 13,
+  "'pypa/gh-action-pypi-publish@v1.4.2'": 17,
+  "'pypa/gh-action-pypi-publish@v1.6.4'": 12,
+
+  "'codecov/codecov-action@v3'": 467,
+  "'codecov/codecov-action@v3.1.4'": 23,
+  "'codecov/codecov-action@v1'": 169,
+  "'codecov/codecov-action@v2'": 67,
+  "'codecov/codecov-action@v1.0.14'": 13,
+  "'AndreMiras/coveralls-python-action@develop'": 33,
+  "'re-actors/alls-green@release/v1'": 38,
+  "'coverallsapp/github-action@v2'": 12,
+  "'coverallsapp/github-action@master'": 22,
+
+  "'github/codeql-action/init@v2'": 256,
+  "'github/codeql-action/init@v1'": 130,
+  "'github/codeql-action/analyze@v2'": 255,
+  "'github/codeql-action/analyze@v1'": 131,
+  "'github/codeql-action/autobuild@v2'": 200,
+  "'github/codeql-action/autobuild@v1'": 109,
+  "'github/codeql-action/upload-sarif@v1'": 15,
+
+  "'psf/black@stable'": 61,
+  "'anchore/scan-action@v3'": 11,
+
+  "'./.github/actions/benchmark'": 12,
+
+  "'elgohr/Publish-Docker-Github-Action@master'": 11,
+
+  "'codespell-project/actions-codespell@master'": 13,
+  "'gaurav-nelson/github-action-markdown-link-check@v1'": 13,
+  "'peter-evans/dockerhub-description@v3'": 11
+}

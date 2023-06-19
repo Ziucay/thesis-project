@@ -1,0 +1,165 @@
+{
+  "test": 443,
+  "test'": 183,
+  "tests'": 79,
+  "tests": 294,
+  "./tests": 15,
+  "tests\\n'": 96,
+  "tests/": 55,
+  "runtests.py": 17,
+  "'./run_tests.sh": 22,
+  "testing": 35,
+  "tests/\\n'": 47,
+  "'nosetests": 18,
+  "tests/'": 34,
+  "tests\\npip": 13,
+  "tests/${{": 38,
+  "test_*.py": 51,
+  ".[tests]\\n'": 12,
+  "test\\npython": 18,
+  "./runtests.sh": 15,
+  "pysr.test": 25,
+
+
+  "pytest-cov\\n'": 17,
+  "pytest": 1037,
+  "'pytest": 662,
+  "'pytest'": 70,
+  "'pytest\\n'": 103,
+  "pytest-cov": 71,
+  "pytest\\npip": 102,
+  "\"pytest": 47,
+  "pytest-cov\\npip": 27,
+  "pytest'": 81,
+  "pytest\\ncoverage": 15,
+  "pytest-cov\\npytest": 16,
+  "/pytest.sh": 24,
+
+  "'brownie": 40,
+
+  "tox'": 271,
+  "'tox": 549,
+  "tox": 420,
+  "'tox'": 192,
+  "tox\\n'": 175,
+  "tox-gh-actions\\n'": 106,
+  "'tox\\n'": 33,
+  "tox\\ntox\\n'": 13,
+  "\"tox": 12,
+  "matrix.tox-env": 18,
+  "tox\\ntox": 15,
+  "tox-gh-actions'": 23,
+
+  "unittest": 137,
+
+  "doctest": 22,
+
+  "nox'": 24,
+  "nox": 83,
+
+  "nbmake": 16,
+
+
+  "'ruff": 48,
+  "ruff'": 15,
+  "ruff": 22,
+
+  "'flake8": 200,
+  "flake8": 346,
+  "flake8'": 69,
+  "flake8-bugbear": 16,
+  "flake8-comprehensions": 15,
+  "flake8\\n#": 52,
+  "wide\\nflake8": 168,
+  "flake8\\n'": 49,
+  "flake8\\nflake8": 23,
+  "'flake8'": 23,
+  "flake8\\npip": 16,
+
+  "isort\\n'": 12,
+  "'isort": 83,
+  "isort'": 14,
+
+  "lint'": 131,
+  "lint\\n'": 64,
+
+  "black": 188,
+  "'black": 160,
+  "black'": 30,
+  "black\\n'": 23,
+  "Black": 15,
+
+  "eslint": 13,
+
+  "pyupgrade": 36,
+
+  "pylint": 62,
+  "pylint\\n'": 11,
+  "'pylint": 52,
+
+  "yapf": 13,
+
+  "'pycodestyle": 16,
+  "pycodestyle": 22,
+
+  "mypy'": 33,
+  "mypy": 170,
+  "mypy\\n'": 31,
+
+
+  "coverage[toml]'": 18,
+  "coverage": 324,
+  "coverage\\n'": 29,
+  "coverage\\npip": 18,
+  "coverage\\ncoverage": 14,
+  "'coverage": 294,
+  "combine\\ncoverage": 28,
+  ".coverage": 32,
+  ".coveragerc": 22,
+  "coverage'": 51,
+  "test\\ncoverage": 11,
+  "tests\\ncoverage": 12,
+  "coverage.xml": 16,
+
+  "codecov\\n'": 16,
+  "'codecov'": 14,
+  "codecov": 30,
+
+  "coveralls\\n'": 38,
+  "coveralls'": 28,
+  "'coveralls": 83,
+  "coveralls\\ncoveralls": 36,
+  "coveralls": 47,
+  "coveralls\\npip": 19,
+  "'coveralls'": 27,
+
+
+  "codespell": 39,
+  "'codespell": 30,
+
+  "pandoc\\n'": 15,
+  "pandoc": 17,
+  "pandoc\\npython": 13,
+
+  "freeze\\n'": 61,
+  "freeze": 52,
+  "freeze'": 25,
+
+  "graphviz": 38,
+  "graphviz\\n'": 11,
+
+  "mkdocs": 40,
+  "'mkdocs": 37,
+
+  "sphinx-build": 11,
+
+  "markdown": 12,
+
+
+  "safety'": 17,
+  "'safety": 21,
+  "safety": 11,
+
+  "bandit": 28,
+  "'bandit": 30
+}
